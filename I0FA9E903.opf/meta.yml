@@ -1,0 +1,37 @@
+id: I0FA9E903
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T10:36:43.768948'
+last_modified: '2022-06-19T10:36:43.768959'
+parser: null
+source_metadata:
+  title: History of the bKa gdams School by Lo dgon pa bSod nams lhai dbang po (1423–1496)
+  author: བསོད་ནམས་ལྷའི་དབང་པོ།
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2013-08-21);
+    revised by inputter, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:བློ་བཟང་རྒྱལ་མཚན། (Dharamsala) (lg)
+  - Editorial process:བློ་བཟང་རྒྱལ་མཚན།
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:བློ་བཟང་རྒྱལ་མཚན།
+  text_witnesses: https://sakyaresearch.org/sources/2111
+  bases:
+    94cf:
+      title: History of the bKa gdams School by Lo dgon pa bSod nams lhai dbang po
+        (1423–1496)
+      order: 1
+      base_file: 94cf.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
